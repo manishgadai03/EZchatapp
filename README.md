@@ -1,15 +1,15 @@
 
 1. Android App (Frontend)
-   - Handles **Login/Signup** using Firebase Authentication.
+   - Handles Login/Signup using Firebase Authentication.
    - Users interact with the chat interface to send/receive messages.
-   - **OkHttp** sends HTTP requests for chat messages.
+   - OkHttp sends HTTP requests for chat messages.
 
 2. Firebase Authentication
    - Manages user login/signup (email, Google, etc.).
    - Authenticates users before they access chat functionality.
 
 3. OkHttp Client
-   - Sends POST requests to **ChatGPT API** or **Firebase Cloud Functions**.
+   - Sends POST requests to ChatGPT API or Firebase Cloud Functions.
    - Receives responses and updates the UI.
 
 4. Firebase Cloud Functions (Optional)
