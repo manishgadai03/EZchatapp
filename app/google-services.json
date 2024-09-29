@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1090966268867",
+    "project_id": "ezchatapp-422f3",
+    "storage_bucket": "ezchatapp-422f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090966268867:android:da380190613f5ac3802b76",
+        "android_client_info": {
+          "package_name": "com.example.ezchatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK5NIVBIYV_PJ_gNC0HR4Rschozw-yAjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
